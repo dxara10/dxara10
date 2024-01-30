@@ -27,9 +27,6 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://https://www.linkedin.com/in/douglas-cortes-2b315b82/)
 
 
-<!-- GithubStats -->
-![VariableBee GitHub stats](https://github-readme-stats.vercel.app/api?username=variablebee&show_icons=true&theme=gotham)
-
 <!-- Portfolio -->
 ## Portfolio:
 - [Python - Development with Django](https://github.com/dxara10/StudyAsync)
