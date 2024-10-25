@@ -33,6 +33,16 @@
   </p>
 </details>
 
+<!-- Professional Experience -->
+<h2 style="color: #66FF33;">🔥 Professional Experience</h2>
+<div style="background-color: #004d00; padding: 10px; color: #66FF33;">
+  <ul>
+    <li><strong>Automation Developer</strong> - Company of the Law (2022): Developed automation scripts for web scraping, data processing, and client-specific workflows, integrating results with Microsoft Azure.</li>
+    <li><strong>Web Developer</strong> - Company of the Investment (2023-2024): Built and optimized WordPress websites, implemented e-commerce solutions using WooCommerce, and developed custom themes and plugins.</li>
+    <li><strong>Accounting System Developer</strong> - Company of the Accounting branch (2024-Present): Developing a custom accounting system using Python and Django, focusing on back-end development and systems integration.</li>
+  </ul>
+</div>
+
 <!-- Links -->
 <div style="background-color: #003300; padding: 10px;">
   <a href="https://www.linkedin.com/in/douglas-cortes-2b315b82/" style="text-decoration: none;">
