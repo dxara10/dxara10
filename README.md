@@ -14,13 +14,6 @@
   - 🌍 Dreaming of working with AI, Machine Learning, Web, and Mobile Development.
 </p>
 
-<!-- Video -->
-<p align="center">
-  <video width="500" height="300" controls autoplay loop>
-    <source src="your-video-url.mp4" type="video/mp4">
-    Your browser does not support the video tag.
-  </video>
-</p>
 
 <!-- Dropdown: More About Me -->
 <details>
@@ -74,10 +67,21 @@
 
 <!-- Links -->
 <div style="background-color: #003300; padding: 10px;">
-  <a href="https://www.linkedin.com/in/douglas-cortes-2b315b82/" style="text-decoration: none;"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="https://github.com/dxara10" style="text-decoration: none;"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+  <a href="https://www.linkedin.com/in/douglas-cortes-2b315b82/" style="text-decoration: none;">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
 </div>
 
+<!-- Portfolio -->
+<h2 style="color: #66FF33;">Portfolio:</h2>
+<ul>
+  <li><a href="https://github.com/dxara10/StudyAsync" style="color: #66FF33;">Python - Development with Django</a></li>
+</ul>
+
+<!-- GIF -->
+<p align="left">
+  <img align="center" src="https://github.com/VariableBee/VariableBee/assets/77739311/4e9f41af-6b57-49a7-b15a-74322e96b4d7" alt="Working Environment GIF">
+</p>
 <!-- Portfolio -->
 <h2 style="color: #66FF33;">Portfolio:</h2>
 <ul>
