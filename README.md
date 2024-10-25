@@ -1,7 +1,7 @@
 <!--Title-->
 <div id="user-content-toc" style="background-color: #003300; padding: 10px;">
   <ul align="center">
-    <summary><h1 style="display: inline-block; color: #66FF33;">Douglas Paulo Cortes</h1></summary>
+    <summary><h1 style="display: inline-block; color: #66FF33;">Douglas Cortes</h1></summary>
   </ul>
 </div>
 
