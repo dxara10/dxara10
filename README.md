@@ -20,7 +20,7 @@
   <summary style="color: #66FF33;">👨‍💻 More about me</summary>
 
   <p style="background-color: #004d00; padding: 10px; color: #66FF33;">
-    💬 I have a strong background in Python, Django, and automation technologies. Currently expanding my skill set with Java, and I'm proficient with tools like Selenium and Pandas for data manipulation. Additionally, I have experience in web development with PHP, JavaScript, HTML, and CSS. Parallel to my studies in engineering, I developed social skills working as a waiter and have gained technical expertise in network infrastructure, instruction, and support while collaborating with the Superior Military Court in Brazil.
+    💬 I have solid experience in Python, Django and automation technologies. Currently expanding my skill set with Java and am proficient in tools such as Selenium and Pandas for data manipulation. Additionally, I have experience in web development with PHP, JavaScript, HTML and CSS. Parallel to my studies in engineering, I developed social skills working as a support worker and acquired technical knowledge in network infrastructure, instruction and support by collaborating with the Superior Military Court of Brazil.
     
     ⚡ In my free time, I enjoy reading scientific articles, playing chess, and watching documentaries. I believe that diverse interests contribute to creative problem-solving! 
   </p>
