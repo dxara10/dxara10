@@ -83,19 +83,7 @@
   <li>
     <img align="center" alt="Selenium" height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" />
     <img align="center" alt="Selenium" height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/djangorest/djangorest-plain.svg" />
-    <a class="falling-link" href="https://github.com/dxara10/StudyAsync" style="display:inline-block; text-decoration:none; color:#333; font-size:24px; font-weight:bold; overflow:hidden; position:relative;">
-        
-        <span>S</span><span>t</span><span>u</span><span>d</span><span>y</span>
-        <span> </span>
-        <span>E</span><span>n</span><span>v</span><span>i</span><span>r</span><span>o</span><span>n</span><span>m</span><span>e</span><span>n</span><span>t</span><span>,</span>
-        <span> </span>
-        <span>w</span><span>i</span><span>t</span><span>h</span>
-        <span> </span>
-        <span>A</span><span>s</span><span>y</span><span>n</span><span>c</span><span>h</span><span>r</span><span>o</span><span>n</span><span>o</span><span>u</span><span>s</span>
-        <span> </span>
-        <span>c</span><span>o</span><span>n</span><span>t</span><span>r</span><span>i</span><span>b</span><span>u</span><span>t</span><span>i</span><span>o</span><span>n</span><span>s</span>
-
-    </a>
+    <a class="falling-link" href="https://github.com/dxara10/StudyAsync" style="display:inline-block; text-decoration:none; color:#333; font-size:24px; font-weight:bold; overflow:hidden; position:relative;">Study Environment, with Asynchronous contributions</a>
   </li>
 </ul>
 
