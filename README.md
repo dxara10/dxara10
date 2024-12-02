@@ -79,9 +79,8 @@
 
 <!-- Portfolio -->
 <h2 style="color: #66FF33;">Portfolio:</h2>
-<img align="center" alt="RestAPI" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/djangorest/djangorest-original.svg" />
 <ul>
-  <li><a href="https://github.com/dxara10/StudyAsync" style="color: #66FF33;">Python - Development with Django</a></li>
+  <li><img align="center" alt="RestAPI" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/djangorest/djangorest-original.svg" /><a href="https://github.com/dxara10/StudyAsync" style="color: #66FF33;">Python - Development with Django</a></li>
 </ul>
 
 <!-- GIF -->
