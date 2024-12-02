@@ -80,11 +80,10 @@
 <!-- Portfolio -->
 <h2 style="color: #66FF33;">Portfolio:</h2>
 <ul>
-  <li><a>
-    href="https://github.com/dxara10/StudyAsync" style="text-decoration: none;"
-  </a>
+  <li>
     <img align="center" alt="Selenium" height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" />
     <img align="center" alt="Selenium" height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/djangorest/djangorest-plain.svg" />
+    <a href="https://github.com/dxara10/StudyAsync" style="text-decoration: none;">Study Environment, with Asynchronous contributions</a>
   </li>
 </ul>
 
