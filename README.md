@@ -96,7 +96,9 @@
 
 ### 🐍 Snake game
 
-![Snake animation](https://github.com/dxara10/dxara10/blob/output/github-contribution-grid-snake.svg)
+![GitHub Snake Light](https://github.com/dxara10/dxara10/blob/main/dist/snake.svg#gh-light-mode-only)
+![GitHub Snake Dark](https://github.com/dxara10/dxara10/blob/main/dist/snake.svg#gh-dark-mode-only)
+
 
 
 
