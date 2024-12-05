@@ -10,7 +10,7 @@
   Hi 👋, I'm Douglas! A passionate Software Engineering student from Brazil.
 
   - 🌱 Currently studying Software Engineering at Unicesumar.
-  - 🔭 Seeking opportunities in Software Development of systems, products, computational solutions and utomation, and Web Technologies.
+  - 🔭 Seeking opportunities in Software Development, whether with new systems, products and computational solutions and automation, and Web Technologies.
   - 🌍 Dreaming of working with AI, Machine Learning, Web, and Mobile Development.
 </p>
 
