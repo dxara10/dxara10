@@ -10,7 +10,7 @@
   Hi 👋, I'm Douglas! A passionate Software Engineering student from Brazil.
 
   - 🌱 Currently studying Software Engineering at Unicesumar.
-  - 🔭 Seeking opportunities in Software Development, Automation, and Web Technologies.
+  - 🔭 Seeking opportunities in Software Development of systems, products, computational solutions and utomation, and Web Technologies.
   - 🌍 Dreaming of working with AI, Machine Learning, Web, and Mobile Development.
 </p>
 
@@ -20,7 +20,7 @@
   <summary style="color: #66FF33;">👨‍💻 More about me</summary>
 
   <p style="background-color: #004d00; padding: 10px; color: #66FF33;">
-    💬 I have solid experience in Python, Django and automation technologies. Currently expanding my skill set with Java and am proficient in tools such as Selenium and Pandas for data manipulation. Additionally, I have experience in web development with PHP, JavaScript, HTML and CSS. Parallel to my studies in engineering, I developed social skills working as a support worker and acquired technical knowledge in network infrastructure, instruction and support by collaborating with the Superior Military Court of Brazil.
+    💬 I have solid experience in development of systems, products and computational solutions with Java, C++, Python, Spring Boot, Maven, Django and automation technologies. Currently expanding my skill set with Java and am proficient in tools such as Selenium and Pandas for data manipulation. Additionally, I have experience in web development with Python, PHP, JavaScript, HTML and CSS. Parallel to my studies in engineering, I developed social skills working as a support worker and acquired technical knowledge in network infrastructure, instruction and support by collaborating with the Superior Military Court of Brazil.
     
     ⚡ In my free time, I enjoy reading scientific articles, playing chess, and watching documentaries. I believe that diverse interests contribute to creative problem-solving! 
   </p>
